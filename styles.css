@@ -4,4 +4,9 @@ html, body {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    background-image: url('composeResources/rentofsales.composeapp.generated.resources/drawable/rent.png'); /* Make sure the image is in the same directory as your CSS file */
+    background-size: 150px;
+    background-color: aquamarine;
+    background-position: center;
+    background-repeat: no-repeat;
 }
